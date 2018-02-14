@@ -1,1 +1,6 @@
-# sass-intro1
+# wf0
+
+## Webpack workflow 
+
+## Installation
+npm install
